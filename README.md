@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-20 at 11 11 54_fa8ce6ac](https://github.com/user-attachments/assets/62dee693-7683-448c-8eb9-0de3deafc96d)# 📝 Full Stack Todo App (MERN)
+# 📝 Full Stack Todo App (MERN)
 
 A complete Full Stack **Todo Application** built using **MongoDB, Express, React, Node.js**.  
 This project allows users to **add, edit, delete, and manage todo tasks** with a clean UI and secure backend.
@@ -81,7 +81,7 @@ GET /api/todos
 POST /api/todos
 
 ### **DELETE todo**
-POST /api/todos/:id
+DELETE /api/todos/:id
 ---
 
 ## 🛠 How to Run Full Project Together
@@ -93,6 +93,10 @@ npm start
 **Step 2:** Start Frontend 
 cd Frontend
 npm run dev
+
+# Screenshot
+
+!(https://github.com/user-attachments/assets/62dee693-7683-448c-8eb9-0de3deafc96d)
 
 
 ## 🤝 Contributing
